@@ -51,8 +51,8 @@ We scan ports to find out the services they are running.
 
 3. For each protocol text file created, insert into it, its ip address it runs on using the vim command  
 
-
-
+<br>
+## VULNERABILITY SCANNING <br>
 | SERVICE VERSIONS | VULNERABILITIES: EXPLOITDB | VULNERABILITIES: MITRE CVE|
 |--------------------------------------------|----------------------------|---------------------------|
 | http apache httpd 2.4.49                   | ------------ |(https://www.cve.org/CVERecord?id=CVE-2021-42013).    It was found that the fix for CVE-2021-41773 in Apache HTTP Server 2.4.50 was insufficient. An attacker could use a path traversal attack to map URLs to files outside the directories configured by Alias-like directives.
