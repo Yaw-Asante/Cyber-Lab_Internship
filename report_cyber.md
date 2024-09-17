@@ -72,4 +72,4 @@ We scan ports to find out the services they are running.
 | mysql MySQL 5.5.62                         | ------------ |------------------| 
 | vnc UltraVNC 1.2.1.7                       | ------------ |(https://www.cve.org/CVERecord?id=CVE-2019-8280)  UltraVNC revision 1203 has out-of-bounds access vulnerability in VNC client inside RAW decoder, which can potentially result code execution. This attack appear to be exploitable via network connectivity. This vulnerability has been fixed in revision 1204.
 
-![met](Images\metasploit_mysql.png)
+![mysql](Images\mysql.png)
