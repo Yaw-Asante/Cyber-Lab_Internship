@@ -31,7 +31,7 @@ Host discovery using the nmap tool;
 
 2. We can find out the hosts online in this network by passing to the nmap, the list of the addresses file
 filter the results using the grep command, cut using the awk command and then saving it in another file. [Hosts online scan]
-
+![host_up](images/host_up.png)
 
 * Using the Aiodnsbrute tool  
 The aiodnsbrute tool is used to brute force a domain name and force out its ip address.Demonstration using the domain provided in the [Scope](#scope)  
