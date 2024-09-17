@@ -33,6 +33,9 @@ Host discovery using the nmap tool;
 filter the results using the grep command, cut using the awk command and then saving it in another file. [Hosts online scan]
 
 ![host_up](Images/host_up.png)
+![list_scan](Images/list_scan.png)
+![nmap](Images/nmap)
+![nmap_oG](Images/nmap.oG)
 
 * Using the Aiodnsbrute tool  
 The aiodnsbrute tool is used to brute force a domain name and force out its ip address.Demonstration using the domain provided in the [Scope](#scope)  
@@ -68,3 +71,5 @@ We scan ports to find out the services they are running.
 | microsoft-ds Windows 7 - Samba file sharing| ------------ |(https://www.cve.org/CVERecord?id=CVE-2007-2407).  The Samba server on Apple Mac OS X 10.3.9 and 10.4.10, when Windows file sharing is enabled, does not enforce disk quotas after dropping privileges, which allows remote authenticated users to use disk space in excess of quota.
 | mysql MySQL 5.5.62                         | ------------ |------------------| 
 | vnc UltraVNC 1.2.1.7                       | ------------ |(https://www.cve.org/CVERecord?id=CVE-2019-8280)  UltraVNC revision 1203 has out-of-bounds access vulnerability in VNC client inside RAW decoder, which can potentially result code execution. This attack appear to be exploitable via network connectivity. This vulnerability has been fixed in revision 1204.
+
+![metasploit_mysql](Images\metasploit_mysql.png)
