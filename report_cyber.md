@@ -34,8 +34,8 @@ filter the results using the grep command, cut using the awk command and then sa
 
 ![host_up](Images/host_up.png)
 ![list_scan](Images/list_scan.png)
-![nmap](Images/nmap)
-![nmap_oG](Images/nmap.oG)
+![nmap](Images/nmap.png)
+![nmap_oG](Images/nmap_oG.png)
 
 * Using the Aiodnsbrute tool  
 The aiodnsbrute tool is used to brute force a domain name and force out its ip address.Demonstration using the domain provided in the [Scope](#scope)  
