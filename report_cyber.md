@@ -52,7 +52,7 @@ We scan ports to find out the services they are running.
 3. For each protocol text file created, insert into it, its ip address it runs on using the vim command  
 
 <br>
-<h2> VULNERABILITY SCANNING ## </h2> <br>
+<h2> VULNERABILITY SCANNING </h2> <br>
 
 | SERVICE VERSIONS | VULNERABILITIES: EXPLOITDB | VULNERABILITIES: MITRE CVE|
 |--------------------------------------------|----------------------------|---------------------------|
